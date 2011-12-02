@@ -1,0 +1,4 @@
+#Sat Oct 15 15:54:39 EDT 2011
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="webservices" location\="C\:/Softwares/Oracle10.3/wlserver_10.3" name\="webservices" runtime-type-id\="com.bea.weblogic1033" timestamp\="0"/>\r\n</runtimes>\r\n
+eclipse.preferences.version=1

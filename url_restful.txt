@@ -1,0 +1,4 @@
+http://192.168.56.1:7001/de.vogella.jersey.first/rest/hello
+http://localhost:7001/de.vogella.jersey.jaxb/rest/todo
+
+http://localhost:7001/ProxyServlet/rest/todo

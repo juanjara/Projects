@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Servers</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>webservices_domain.startWebLogic.cmd</name>
+			<type>1</type>
+			<location>C:/Softwares/Oracle10.3/user_projects/domains/webservices_domain/startWebLogic.cmd</location>
+		</link>
+	</linkedResources>
+</projectDescription>

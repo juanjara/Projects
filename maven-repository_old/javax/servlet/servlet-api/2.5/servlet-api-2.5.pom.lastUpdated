@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 18 23:02:04 EDT 2011
+legacy-http\://download.java.net/maven/1/.lastUpdated=1318993324451
+http\://download.java.net/maven/2/.lastUpdated=1318993324451
+http\://download.java.net/maven/glassfish/.lastUpdated=1318993324513
+http\://repo1.maven.org/maven2/.lastUpdated=1318993324841
+http\://download.java.net/maven/glassfish/.error=
+http\://download.java.net/maven/1/.error=Could not transfer artifact javax.servlet\:servlet-api\:pom\:2.5 from/to maven-repository.dev.java.net (http\://download.java.net/maven/1)\: No connector available to access repository maven-repository.dev.java.net (http\://download.java.net/maven/1) of type legacy using the available factories WagonRepositoryConnectorFactory
+http\://download.java.net/maven/2/.error=

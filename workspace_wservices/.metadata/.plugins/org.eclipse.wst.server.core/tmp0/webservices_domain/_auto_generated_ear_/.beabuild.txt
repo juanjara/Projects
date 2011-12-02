@@ -1,0 +1,6 @@
+C\:/Projects/workspace_wservices/de.vogella.jersey.jaxb/WebContent = de.vogella.jersey.jaxb.war
+C\:/Projects/workspace_wservices/de.vogella.jersey.jaxb/build/weboutput = de.vogella.jersey.jaxb.war
+C\:/Projects/workspace_wservices/de.vogella.jersey.jaxb/build/classes = de.vogella.jersey.jaxb.war/WEB-INF/classes
+C\:/Projects/workspace_wservices/de.vogella.jersey.todo/WebContent = de.vogella.jersey.todo.war
+C\:/Projects/workspace_wservices/de.vogella.jersey.todo/build/weboutput = de.vogella.jersey.todo.war
+C\:/Projects/workspace_wservices/de.vogella.jersey.todo/build/classes = de.vogella.jersey.todo.war/WEB-INF/classes

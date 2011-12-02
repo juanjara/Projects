@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 18 23:02:25 EDT 2011
+http\://download.java.net/maven/glassfish/.lastUpdated=1318993345633
+http\://download.java.net/maven/2/.lastUpdated=1318993329333
+legacy-http\://download.java.net/maven/1/.lastUpdated=1318993329333
+http\://download.java.net/maven/2/.error=
+http\://download.java.net/maven/1/.error=Could not transfer artifact org.glassfish.embedded\:glassfish-embedded-all\:jar\:3.0-Prelude-Embedded-b10 from/to maven-repository.dev.java.net (http\://download.java.net/maven/1)\: No connector available to access repository maven-repository.dev.java.net (http\://download.java.net/maven/1) of type legacy using the available factories WagonRepositoryConnectorFactory

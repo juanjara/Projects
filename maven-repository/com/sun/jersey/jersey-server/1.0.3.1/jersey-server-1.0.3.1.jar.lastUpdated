@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 02 20:54:42 EDT 2011
+legacy-http\://download.java.net/maven/1/.lastUpdated=1320281682116
+http\://repo1.maven.org/maven2/.lastUpdated=1320281682693
+http\://download.java.net/maven/1/.error=Could not transfer artifact com.sun.jersey\:jersey-server\:jar\:1.0.3.1 from/to maven-repository.java.net (http\://download.java.net/maven/1)\: No connector available to access repository maven-repository.java.net (http\://download.java.net/maven/1) of type legacy using the available factories WagonRepositoryConnectorFactory

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 18 23:02:37 EDT 2011
+http\://download.java.net/maven/2/.lastUpdated=1318993356859
+legacy-http\://download.java.net/maven/1/.lastUpdated=1318993356859
+http\://repo1.maven.org/maven2/.lastUpdated=1318993357280
+http\://download.java.net/maven/2/.error=
+http\://download.java.net/maven/1/.error=Could not transfer artifact org.apache.maven\:maven-plugin-api\:pom\:2.0.2 from/to maven-repository.dev.java.net (http\://download.java.net/maven/1)\: No connector available to access repository maven-repository.dev.java.net (http\://download.java.net/maven/1) of type legacy using the available factories WagonRepositoryConnectorFactory

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="1" hostname="localhost" id="webservices" name="webservices" runtime-id="webservices" server-type="com.bea.weblogic1033.server" server-type-id="com.bea.weblogic1033.server" start-timeout="480" stop-timeout="240" timestamp="21" weblogic_domain_path="C:\Softwares\Oracle10.3\user_projects\domains\webservices_domain" weblogic_host_name="localhost" weblogic_is_remote="false" weblogic_port="7001" weblogic_use_bootprop="true" weblogic_use_config_xml="true">
+    <list key="modules" value0="de.vogella.jersey.jaxb::org.eclipse.jst.jee.server:de.vogella.jersey.jaxb::jst.web::2.5" value1="de.vogella.jersey.todo::org.eclipse.jst.jee.server:de.vogella.jersey.todo::jst.web::2.5"/>
+  </server>
+</servers>

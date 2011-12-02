@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 02 20:54:44 EDT 2011
+legacy-http\://download.java.net/maven/1/.lastUpdated=1320281684159
+http\://repo1.maven.org/maven2/.lastUpdated=1320281684643
+http\://download.java.net/maven/1/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:jar\:2.1 from/to maven-repository.java.net (http\://download.java.net/maven/1)\: No connector available to access repository maven-repository.java.net (http\://download.java.net/maven/1) of type legacy using the available factories WagonRepositoryConnectorFactory

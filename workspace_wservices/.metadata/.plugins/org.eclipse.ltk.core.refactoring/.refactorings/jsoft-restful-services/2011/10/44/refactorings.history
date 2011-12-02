@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements(s) to &apos;lib&apos;&#x0D;&#x0A;- Original project: &apos;jsoft-restful-services&apos;&#x0D;&#x0A;- Destination element: &apos;lib&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jaxb-api-2.1.jar&#x0D;&#x0A;     jaxb-impl-2.1.12.jar" description="Copy files" element1="target/jsoft-restful-services/WEB-INF/lib/jaxb-api-2.1.jar" element2="target/jsoft-restful-services/WEB-INF/lib/jaxb-impl-2.1.12.jar" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1319920021029" target="/de.vogella.jersey.jaxb/WebContent/WEB-INF/lib" units="0" version="1.0"/>
+</session>

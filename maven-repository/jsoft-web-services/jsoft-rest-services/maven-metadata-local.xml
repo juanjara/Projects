@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jsoft-web-services</groupId>
+  <artifactId>jsoft-rest-services</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20111029152242</lastUpdated>
+  </versioning>
+</metadata>
